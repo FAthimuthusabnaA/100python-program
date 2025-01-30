@@ -36,4 +36,26 @@ while True:
                                 else:
                                     print("\nNo flights were booked.")
                                     print("\nThsnk you using Flight Booking system1")
+output
+Available Flights:
+----------------------------------------
+1. Flight Number: AI101, Destination: New York, Price: $450
+2. Flight Number: BA202, Destination: London, Price: $350
+3. Flight Number: CA303, Destination: Paris, Price: $300
+4. Flight Number: DA404, Destination: Tokyo, Price: $600
+5. Flight Number: EA505, Destination: Sydney, Price: $700
+
+Enter the flight number to book (or type 'done' to finish): AI101
+Flight to New York has been booked.
+
+Enter the flight number to book (or type 'done' to finish): done
+
+Booking Summary:
+----------------------------------------
+Flight Number: AI101, Destination: New York, Price: $450
+----------------------------------------
+Total Price: $450
+
+Thank you for using the Flight Booking System!
+
 
